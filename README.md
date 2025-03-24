@@ -28,6 +28,7 @@
       margin: 0 auto 30px auto;
       max-width: 100%;
       height: auto;
+      border-radius: 10px;
     }
 
     ul {
@@ -58,8 +59,8 @@
     <p>Discord: @YourDiscordHandle</p>
   </div>
 
-  <!-- Main Image -->
-  <img src="me-800-by-800.jpg" alt="Headshot of Atahan Ors" class="centered-img">
+  <!-- Image Using Original File Name -->
+  <img src="head shot.jpeg" alt="Headshot of Atahan Ors" class="centered-img">
 
   <!-- Introduction Section -->
   <section>
