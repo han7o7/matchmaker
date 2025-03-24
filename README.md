@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
+      background-color: #f9f9f9;
       color: #333;
       margin: 0;
       padding: 20px;
@@ -17,20 +17,26 @@
       text-align: center;
     }
 
+    .contact {
+      text-align: center;
+      margin-top: -10px;
+      margin-bottom: 30px;
+    }
+
     .centered-img {
       display: block;
-      margin: 0 auto;
+      margin: 0 auto 30px auto;
       max-width: 100%;
       height: auto;
     }
 
     ul {
       list-style-type: square;
-      margin-left: 20px;
+      margin-left: 25px;
     }
 
     section {
-      margin-bottom: 30px;
+      margin-bottom: 40px;
     }
 
     a {
@@ -41,57 +47,50 @@
     a:hover {
       text-decoration: underline;
     }
-
-    .contact-info {
-      text-align: center;
-      margin-top: -10px;
-      margin-bottom: 40px;
-    }
   </style>
 </head>
 <body>
 
   <h1>Atahan Ors’ Introductions Website</h1>
 
-  <!-- Contact Info -->
-  <div class="contact-info">
+  <div class="contact">
     <p><a href="mailto:aors123@lewisu.edu">aors123@lewisu.edu</a></p>
     <p>Discord: @YourDiscordHandle</p>
   </div>
 
-  <!-- Profile Image -->
-  <img src="me-800-by-800.jpg" alt="Atahan's Headshot" class="centered-img">
+  <!-- Main Image -->
+  <img src="me-800-by-800.jpg" alt="Headshot of Atahan Ors" class="centered-img">
 
   <!-- Introduction Section -->
   <section>
     <h2>Introduction</h2>
-    <p>Hello! My name is Atahan Ors, but I go by Han. I’m a freshman at Lewis University majoring in Information Technology. I come from a supportive family that’s always encouraged me to follow my passions. I’m currently working at College Hunks as a senior captain, and I’ve previously worked at Amazon, Pete’s Fresh Market, and as a swim instructor/lifeguard. I’m planning to join the Air Force and eventually pursue a career that also involves patient care.</p>
+    <p>Hello! My name is Atahan Ors, but I go by Han. I’m a freshman at Lewis University, majoring in Information Technology. My family’s always been supportive and motivated me to follow my dreams. I work at College Hunks as a senior captain, and I’ve also worked at Amazon, Pete’s Fresh Market, and as a lifeguard and swim instructor at my town’s park district. My plan is to join the Air Force and also build a career in patient care.</p>
   </section>
 
-  <!-- Course Goals Section -->
+  <!-- What I Hope to Learn Section -->
   <section>
     <h2>What I Hope to Learn in this Course</h2>
     <ul>
-      <li>How to build and host websites using HTML and CSS</li>
-      <li>Basic principles of software development and user experience</li>
-      <li>How to integrate images, links, and styling into web pages</li>
+      <li>How to build web pages using HTML and CSS</li>
+      <li>How to use GitHub Pages to host websites</li>
+      <li>Better understanding of how websites work behind the scenes</li>
     </ul>
   </section>
 
-  <!-- Hobbies Section -->
+  <!-- Favorite Hobby Section -->
   <section>
     <h2>My Favorite Hobby / Activity</h2>
     <ul>
       <li>Working on and building cars</li>
-      <li>Listening to and creating music</li>
+      <li>Listening to music and going to car meets</li>
     </ul>
-    <p>Check out <a href="https://www.motortrend.com/how-to/" target="_blank">MotorTrend’s DIY Car Guide</a> to learn more about car building and repair.</p>
+    <p>Here’s a great site for car enthusiasts: <a href="https://www.motortrend.com/how-to/" target="_blank">MotorTrend DIY Car Guides</a></p>
   </section>
 
   <!-- Fun Fact Section -->
   <section>
     <h2>Fun Fact</h2>
-    <p>I build cars for fun — it’s my favorite way to learn, create, and unwind.</p>
+    <p>I build cars for fun — it’s how I learn and challenge myself.</p>
   </section>
 
 </body>
