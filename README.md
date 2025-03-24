@@ -54,7 +54,7 @@
   </div>
 
   <!-- ✅ Image inserted using exact filename -->
-  <img src="head%20shot.jpeg" alt="Headshot of Atahan Ors" class="centered-img">
+<img src="me.jpg" alt="Headshot of Atahan Ors" class="centered-img">
 
   <h2>Introduction</h2>
   <p>Hello! My name is Atahan Ors, but I go by Han. I’m a freshman at Lewis University, majoring in Information Technology. My family’s always been supportive and motivated me to follow my dreams. I work at College Hunks as a senior captain, and I’ve also worked at Amazon, Pete’s Fresh Market, and as a lifeguard and swim instructor at my town’s park district. My plan is to join the Air Force and also build a career in patient care.</p>
