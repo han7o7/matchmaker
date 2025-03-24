@@ -60,7 +60,7 @@
   </div>
 
   <!-- Image Using Original File Name -->
-  <img src="head shot.jpeg" alt="Headshot of Atahan Ors" class="centered-img">
+  <img src="head%20shot.jpeg" alt="Headshot of Atahan Ors" class="centered-img">
 
   <!-- Introduction Section -->
   <section>
